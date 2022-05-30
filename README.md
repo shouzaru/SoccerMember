@@ -1,0 +1,2 @@
+# SoccerMember
+EMSCのメンバリングをする
